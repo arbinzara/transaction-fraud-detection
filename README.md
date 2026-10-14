@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transaction Fraud Detection System
 
 A Streamlit machine-learning demo that scores transactions and presents model evaluation metrics.
@@ -28,3 +29,7 @@ The included data is synthetic and is only for learning/demo purposes. Metrics a
 - Add time-aware validation and drift monitoring.
 - Save the trained pipeline and add unit tests.
 - Add a FastAPI prediction endpoint and Docker deployment.
+=======
+# transaction-fraud-detection
+Machine learning-based transaction fraud detection using Python and Streamlit
+>>>>>>> 7bd55d092b2735be36561e624480815e8c02b9c2
